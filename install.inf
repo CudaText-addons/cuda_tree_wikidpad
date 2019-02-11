@@ -1,6 +1,6 @@
 [info]
 title=TreeHelper for WikidPad
-desc=TreeHelper for CudaTree, adds support for WikidPad lexer
+desc=TreeHelper for WikidPad lexer
 type=cudatext-plugin
 subdir=cuda_tree_wikidpad
 homepage=https://github.com/CudaText-addons/cuda_tree_wikidpad
