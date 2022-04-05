@@ -6,6 +6,6 @@ subdir=cuda_tree_wikidpad
 homepage=https://github.com/CudaText-addons/cuda_tree_wikidpad
 
 [treehelper1]
-lexers=WikidPad
+lexers=WikidPad,WikidPad ^
 method=get_headers
 fold=1
